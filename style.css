@@ -1,0 +1,28 @@
+/* Style for Task One */
+body {
+  background-color: blanchedalmond;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header .product-text {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+main .products {
+  background-color: whitesmoke;
+  padding: 20px 0px;
+}
+.products ul {
+  list-style-type: none;
+  margin: 20px auto;
+  padding: 20px;
+  width: fit-content;
+  border: 1px solid #fff;
+  background-color: lightgray;
+}
+.products ul li {
+  font-weight: bold;
+  color: green;
+  margin: 10px 0;
+}
